@@ -1,0 +1,26 @@
+﻿  Game.cpp
+C:\Users\HP\source\repos\SnakeGame\Game.h(29,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\SnakeGame\Game.cpp(4,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\SnakeGame\Game.cpp(18,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\HP\source\repos\SnakeGame\Game.cpp(18,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Snake.cpp
+C:\Users\HP\source\repos\SnakeGame\Snake.cpp(8,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\HP\source\repos\SnakeGame\Snake.cpp(8,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  SnakeGame.vcxproj -> C:\Users\HP\source\repos\SnakeGame\Debug\SnakeGame.exe
